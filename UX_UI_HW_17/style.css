@@ -1,0 +1,19 @@
+.inline_block
+{display: inline-block;
+vertical-align: top;}
+
+
+li{display: inline-block;
+    vertical-align: top;}
+
+nav{width: 73%;
+    padding: 1%;}
+
+ul{width:50%;
+margin-right: auto;}
+
+.heroImag{height: 600px;
+    padding: 25px;}
+
+.content{width: 500px;
+    margin: 0 auto;}
